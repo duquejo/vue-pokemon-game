@@ -1,4 +1,6 @@
-# 04-pokemon-game
+# Vue - Pokémon "who's that Pokémon game!"
+Check this MVP!:
+- https://duquejo01.github.io/vue-pokemon-game/
 
 ## Project setup
 ```
