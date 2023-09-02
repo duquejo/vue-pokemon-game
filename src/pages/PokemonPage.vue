@@ -45,7 +45,7 @@ export default {
       this.showPokemon = true;
       this.showAnswer = true;
       if( pokeId === this.pokemon.id ) {
-        this.message = `That\'s correct!, it's  a ${this.pokemon.name}!`;
+        this.message = `That\'s correct!, it's a ${this.pokemon.name}!`;
       } else {
         this.message = `Oops, it's a ${this.pokemon.name}!`;
       }
